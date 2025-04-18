@@ -2,6 +2,15 @@
 # Overview
 
 This project is a deep learning-based dog breed classifier built using TensorFlow and TensorFlow Hub. The model leverages transfer learning with a pre-trained MobileNetV2 architecture to classify dog images into 120 different breeds.
+# Dataset
+
+The model uses the "Dog Breed Classification" dataset from Kaggle:
+
+    Download from: https://www.kaggle.com/datasets/kabilan03/dogbreedclassification
+
+    Contains labeled images of 120 different dog breeds
+
+    Includes training images and corresponding labels CSV file
  # Features
 
     Utilizes transfer learning with MobileNetV2 (130 depth, 224 input size)
