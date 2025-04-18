@@ -46,9 +46,9 @@ The notebook includes functions to:
 
     Generate side-by-side prediction comparisons
 
-Performance
+# Performance
 
-# Model performance can be monitored through:
+Model performance can be monitored through:
 
     Training/validation accuracy
 
